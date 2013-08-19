@@ -1,0 +1,52 @@
+doctype 5
+html
+  head
+    title= title
+  body
+    div.container
+      div.header
+        ul.nav.nav-pills.pull-right
+          li(class=(activeLink == 'home' ? 'active' : ''))
+            a(href='/') Home
+          li(class=(activeLink == 'customers' ? 'active' : ''))
+            a(href='/customers') Clientes
+          li(class=(activeLink == 'contact' ? 'active' : ''))
+            a(href='/contact') Contato
+        h2.page-header #dev-labs
+      div.content.body
+        block content
+      div.footer
+        div.x
+          div.col-lg-4
+            h4 Header coluna 1
+            ul.list-unstyled
+              li Lorem
+              li ipsum 
+              li dolor 
+              li sit 
+              li amet
+          div.col-lg-4  
+            h4 Header coluna 2
+            ul.list-unstyled
+              li Lorem
+              li ipsum 
+              li dolor 
+              li sit 
+              li amet
+          div.col-lg-4  
+            h4 Header coluna 3
+            ul.list-unstyled
+              li Lorem
+              li ipsum 
+              li dolor 
+              li sit 
+              li amet
+
+          
+  footer
+    link(rel='stylesheet', href='http://netdna.bootstrapcdn.com/bootstrap/3.0.0-wip/css/bootstrap.min.css')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css')
+
+    script(src='http://netdna.bootstrapcdn.com/bootstrap/3.0.0-wip/js/bootstrap.min.js')
+    script(src='http://code.jquery.com/jquery.js')

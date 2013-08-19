@@ -1,0 +1,25 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #fff;
+}
+a {
+  color: #00b7ff;
+}
+.primary-text {
+  color: #59c;
+}
+.page {
+  background-color: #f1f1fb;
+  color: #110;
+  height: 490px;
+  padding: 15px;
+}
+.footer {
+  min-height: 150px;
+  background-color: #227;
+  color: #ddf;
+}
+.secondary {
+  background-color: #3d3dc7;
+  color: #ddf;
+}
