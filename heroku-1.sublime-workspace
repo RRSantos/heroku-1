@@ -1,0 +1,564 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"font",
+				"fontStyle"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"cl",
+				"◉ click	() => void"
+			],
+			[
+				"get",
+				"◉ getElementById	(elementId: string) => HTMLElement"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"my",
+				"myVariable"
+			],
+			[
+				"Pre",
+				"PrefixoAgendaTestes"
+			],
+			[
+				"tue",
+				"true"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssp",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"s",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"e",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss c",
+				"Set Syntax: C#"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Desenvolvimento/git/heroku-1/web.js",
+		"/D/Desenvolvimento/git/heroku-1/routes/customers.js",
+		"/C/Users/Rodrigo/.git-credentials",
+		"/D/Desenvolvimento/SVN/readme.textile",
+		"/D/Desenvolvimento/SVN/Database/SQLTest/ComoUtilizar.sql",
+		"/D/Estudos/vim/estudoBasico_002.txt",
+		"/D/Estudos/CS/EstudoPing/EstudoPing/Program.cs",
+		"/D/Desenvolvimento/python/Estudos/EstudoThread.py",
+		"/D/Desenvolvimento/python/Estudos/EstudoEMail2.py",
+		"/D/Estudos/Blend/EstudoProprotipo1/EstudoProprotipo1/EstudoProprotipo1.jsproj",
+		"/D/AASP/Estudos/ruby/helloWorld/variables.rb",
+		"/D/AASP/Estudos/ruby/book-of-ruby/ch20/binding.rb",
+		"/D/AASP/Estudos/ruby/helloWorld/Estudo1/main.rb",
+		"/D/Estudos/MSBuild/EstudoPPIMultitask/packages/MSBuildTasks.1.4.0.61/tools/Install.ps1",
+		"/D/Estudos/js/node/collatzConjecture/collatz.js",
+		"/D/Estudos/js/node/expressApp/views/user.jade",
+		"/D/Estudos/js/node/expressApp/views/index.jade",
+		"/D/Estudos/js/node/expressApp/public/stylesheets/style.css",
+		"/D/Estudos/js/node/expressApp/routes/user.js",
+		"/D/Estudos/js/node/expressApp/routes/index.js",
+		"/D/Estudos/js/node/expressApp/app.js",
+		"/D/Estudos/js/node/expressApp/views/users.jade",
+		"/D/AASP/TFS/AASP/AASP_MODULO.ADMINISTRATIVO/Dev/Entrega3/src/Modulo_Adm/Modulo_Adm.sln",
+		"/D/Desenvolvimento/git/heroku-1/package.json",
+		"/D/Desenvolvimento/git/heroku-1/views/layout.jade",
+		"/D/temp/modulo-administrativo-magic-bootstrap.less",
+		"/C/Users/Rodrigo/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/temp/nada.js",
+		"/D/AASP/TFS/AASP/AASP_MODULO.ADMINISTRATIVO/Dev/Entrega3/src/Modulo_Adm/Mod_Adm.Web/Scripts/views/Agendamento.js",
+		"/C/Users/Rodrigo/Desktop/pagina.html",
+		"/D/cygwin64/home/Rodrigo/apps/todo.txt_cli-2.9/todo.sh",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Script/script_0015.sql",
+		"/C/Users/Rodrigo/AppData/Roaming/Sublime Text 2/Packages/Sublime TFS/sublime_tfs.sublime-settings",
+		"/C/Users/Rodrigo/AppData/Roaming/Sublime Text 2/Packages/User/sublime_tfs.sublime-settings",
+		"/D/Desenvolvimento/heroku/ruby-sample/web.rb",
+		"/D/Desenvolvimento/heroku/ruby-sample/Procfile",
+		"/D/cygwin64/home/Rodrigo/documents/todos/done.txt",
+		"/D/cygwin64/home/Rodrigo/documents/todos/todo.txt",
+		"/D/cygwin64/home/Rodrigo/.bash_profile",
+		"/D/cygwin64/home/Rodrigo/apps/todo.txt_cli-2.9/todo.cfg",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Script/script_0014.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/stp_ObterComponentesKitPrecoVigente.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/stp_AlterarPerfil.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/stp_InserirPerfil.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/stp_AlterarComponenteKit.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/stp_InserirComponenteKit.sql",
+		"/D/temp/BootStrap/BootStrap/minhaPagina.html",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/InserirAgendamentosTeste.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Script/script_0013.sql",
+		"/D/Estudos/js/dialogPlugin/jquery.aasp.custom-dialog.js",
+		"/D/Estudos/js/dialogPlugin/estudo.html",
+		"/D/Estudos/js/dialogPlugin/estudo.js",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/ExcluirAgendamentosTeste.sql",
+		"/D/Estudos/js/learningJS/functions/jquery.myPlugin.js",
+		"/D/Estudos/js/typescript/greeting/greet.ts",
+		"/D/Estudos/js/node/pingTest/pingTest.js",
+		"/D/Estudos/js/node/arangoTest/arangoTest.js",
+		"/D/Estudos/js/testChart/chartTest2.html",
+		"/D/Estudos/js/learningJS/functions/estudo.html",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/InserirPostosTeste.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Script/script_0012.sql",
+		"/D/Estudos/js/learningJS/functions/estudo.js",
+		"/D/Estudos/js/node/expressApp/views/layout.jade",
+		"/D/Estudos/js/testChart/chartTest.html",
+		"/D/Estudos/js/typescript/greeting/greet.js",
+		"/D/Estudos/js/typescript/greeting/greet.css",
+		"/D/Estudos/js/typescript/greeting/greet.html",
+		"/D/Estudos/js/node/pingTest/ping.js",
+		"/D/Estudos/js/typescript/greeting/jquery.d.ts",
+		"/D/Estudos/js/typescript/greeting/normalize.css",
+		"/C/Program Files/nodejs/npm.cmd",
+		"/C/Users/Rodrigo/AppData/Roaming/Sublime Text 2/Packages/sublime-typescript/typescript.sublime-settings",
+		"/C/Users/Rodrigo/AppData/Roaming/Sublime Text 2/Packages/User/typescript.sublime-build",
+		"/C/Users/Rodrigo/AppData/Roaming/Sublime Text 2/Packages/Vintage/vintage.py",
+		"/C/Users/Rodrigo/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Script/script_0007_SCRIPT SQL AGD_PEDIDOeSTATUS.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Script/SCRIPT SQL PAGAMENTO_CREDITO.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Script/script_0009_ScriptControleCredito.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Script/script_0008_SCRIPT SQL AGD_CAD_POSTO_ATENDIMENTO.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/stp_DesassociarPerfilCategoria.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/stp_AssociarPerfilCategoria.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega3/sql/Procedures/stp_AssociarPerfilCategorias.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega2/sql/Procedures/stp_ObterPostosAtendimentoAtivosPublicadosPorKitPerfil.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega2/sql/Procedures/stp_ObterComponentesKitPrecoVigente.sql",
+		"/D/AASP/TFS/AASPFRK/AASP_FUNÇÕES/Main/Log/CSharp/GravacaoLog/GravacaoLog/sql/procedures/stp_ObterLogs.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega2/sql/Procedures/stp_ObterPostosAtivosAssociadosPorKitPerfil.sql",
+		"/D/AASP/TFS/AASP/AdmissaoReadmissao/Assinantes/Assinantes/Assinantes/Controllers/CadastroController.cs",
+		"/D/Desenvolvimento/git/general-code/javascript/jquery/unobtrusive/doValidation.js",
+		"/D/AASP/TFS/AASPFRK/AASP_FUNÇÕES/Main/Log/CSharp/GravacaoLog/GravacaoLog/sql/procedures/stp_InserirLogDetalhe.sql",
+		"/D/AASP/TFS/AASPFRK/AASP_FUNÇÕES/Main/Log/CSharp/GravacaoLog/GravacaoLog/sql/procedures/stp_InserirLog.sql",
+		"/D/AASP/TFS/AASPFRK/AASP_FUNÇÕES/Main/Log/CSharp/GravacaoLog/GravacaoLog/sql/procedures/stp_InserirLogDetalhes.sql",
+		"/D/AASP/TFS/AASP/AdmissaoReadmissao/Assinantes/Assinantes/Assinantes/Views/Home/Index.cshtml",
+		"/D/temp/Criptografia.cs",
+		"/C/Users/Rodrigo/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/P4PLZVMM/WPSettings[1].dat",
+		"/D/Desenvolvimento/git/general-code/csharp/validations/cpf.cs",
+		"/D/Desenvolvimento/git/general-code/csharp/validations/email.cs",
+		"/D/Desenvolvimento/git/general-code/sql/mssql/cursorSnippet.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Dev/Entrega1/sql/Procedures/stp_ExcluirDiasSemanaDaAgenda.sql",
+		"/D/Desenvolvimento/python/Estudos/EstudoConcorrencia.py",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/PrepararBaseParaTestes.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/ExcluirAgendamentosTeste.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/ExcluirNaoAssociadosTeste.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/InserirNaoAssociadosTeste.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/InserirAgendamentosTeste.sql",
+		"/D/Estudos/MSBuild/EstudoParameterTask.dproj",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/InserirAgendasTeste.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/InserirKitsTeste.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/ExcluirAgendasTeste.sql",
+		"/I/2- Escritório de Projetos/1- PMO/2- Projetos Melhoria/Certificado Digital/Documentos Técnicos/Classes/Agenda_EA.cs",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/ExcluirKitsTeste.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/InserirPostosTeste.sql",
+		"/D/AASP/TFS/GPS/AASP_AGEND.CERTDIGITAL/Main/sql/Procedures/ExcluirPostosTeste.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_CONTROLE/stp_BulkInsertDetalhesBaixaItauBoleto400.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_CONTROLE/PR_CONSULTA_ARQUIVO_BAIXA_ISENTO_PAGAMENTO.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_CONTROLE/stp_CalcularValoresBoletoSite.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_CONTROLE/stp_ValidarDetalhesBoletoSite.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_CONTROLE/stp_ValidarEGravarDetalheBaixaItauBoleto400Carteiras196e198.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_CONTROLE/stp_BulkInsertRetornoBaixaItauBoleto400.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_CONTROLE/stp_ValidarDetalheBaixaItauBoleto400.sql",
+		"/D/AASP/TFS/AdmissaoReadmissao/Assinantes/Assinantes/Assinantes/Scripts/fancybox/jquery.fancybox-1.3.4.js",
+		"/D/AASP/TFS/AdmissaoReadmissao/Assinantes/Assinantes/Assinantes/Scripts/fancybox/jquery.fancybox-1.3.4.pack.js",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_ASSOC/stp_DA_RelatorioRemessaDebitoAutomatico.sql",
+		"/D/Desenvolvimento/Guias/TFS/BranchMerge/TFS_Branching_Guide_2010_Complete_Package_v1/Lab_Files_HOL_Quick_Start_Basic_Branch_Plan_v1/Lab_Files_-_HOL_Quick_Start_Basic_Branch_Plan/BankTransactions.cs",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_ASSOC/spr_CriarArquivoCobranca.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_CONTROLE/stp_DA_CadastrarPedidoDebitoAutomatico.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_ASSOC/SP_Assoc_Ficha_Hist.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_CONTROLE/stp_ValidarEGravarDetalheBaixaItauBoleto400Carteiras176e178.sql",
+		"/D/AASP/TFS/AASPCobranca/AASPCobranca/Script_SQL/DB_ASSOC/SP_Parc_Gerar_Fichas.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"valorFinal",
+			"justo",
+			"cu",
+			"rodrigo",
+			"rodrigo ",
+			"rodrigo",
+			"\\",
+			"14",
+			"13",
+			"script_0013",
+			"imageLeft",
+			"onOpen",
+			"12",
+			"script_0012",
+			"script_0011",
+			"area",
+			"hour",
+			"values",
+			"parseFileAndUpdateGraph",
+			"stp_AssociarPerfilCategoria",
+			"stp_AssociarPerfilCategorias",
+			"stp_AlterarPerfil",
+			"stp_AlterarComponenteKit",
+			"stp_InserirComponenteKit",
+			"stp_ObterPostosAtivosAssociadosPorKitPerfil",
+			"PrepararBaseParaTestes",
+			"stp_InserirLog",
+			"stp_InserirLogDetalhes",
+			"stp_InserirLog",
+			"postoAtendimento_cursor",
+			"InserirNaoAssociadosTeste",
+			"InserirAgendamentosTeste",
+			"InserirAgendasTeste",
+			"@PrefixoPostoTestes",
+			"InserirPostosTeste",
+			"@PrefixoPostoTestes",
+			"ExcluirPostosTeste",
+			"PrefixoPostosTestes",
+			"@PrefixoKitTestes",
+			"InserirKitsTeste",
+			"#tmp_PostotTeste",
+			"#tmp_KitsPerfisTeste",
+			"#tmp_KitsTeste",
+			"PrefixoKitTestes",
+			"ExcluirKitsTeste",
+			"stp_BulkInsertDetalhesBaixaItauBoleto400",
+			"FLOAT",
+			"INT",
+			"And",
+			"NULL",
+			"null",
+			"NULL",
+			"AND",
+			"NULL",
+			"AND",
+			"INT",
+			"And",
+			"FROM",
+			"And",
+			"AND",
+			"FROM",
+			"AND",
+			"NULL",
+			"DATETIME",
+			"CHAR",
+			"char",
+			"CHAR",
+			"char",
+			"CHAR",
+			"VARCHAR",
+			"CHAR",
+			"INT",
+			"SELECT",
+			"INT",
+			"IF",
+			"select",
+			"SELECT",
+			"select",
+			"SET",
+			"PROCEDURE",
+			"CREATE",
+			"BEGIN",
+			"ELSE",
+			"recebido",
+			"DataImportacaoFinal",
+			"DataImportacaoInicial",
+			"stp_ObterDataHoraServidor",
+			"sp_aasp_OcorrenciaRetorno_Listar",
+			"sp_aasp_OcorrenciaRetorno_AtivarDesativar",
+			"CodigoOcorrenciaRetorno",
+			"sp_aasp_OcorrenciaRetorno_Alterar",
+			"MotivoPermiteDigitacao",
+			"OcorrenciaRegistro",
+			"EnviarCobrancaSemRegistro",
+			"OcorrenciaBaixa",
+			"@CodigoBancoOcorrenciaRetorno",
+			"CodigoOcorrenciaRetorno",
+			"sp_aasp_OcorrenciaRetorno_Inserir",
+			"stp_DA_ObterDadosCobrancaDebitoAutomaticoBancoBrasil",
+			"@SequencialBancoBrasilDA",
+			"stp_DA_ObterDadosHeaderCobrancaDebitoAutomaticoBancoBrasil",
+			"stp_DA_GerarDadosCobrancaDebitoAutomaticoBancoBrasil",
+			"stp_DA_ObterSequencialServicoBancario_BancoBrasilDA",
+			"#tmpBaixaBancoBrasilDA",
+			"stp_DA_BulkInsertDetalhesBaixaBancoBrasilDA",
+			"stp_DA_BulkInsertRetornoBaixaBancoBrasilDA",
+			"rodrigo",
+			"RootDirectory",
+			"@echo off\n\nset libraryPath=$(DELPHI)\\Lib;$(DELPHI)\\Bin;$(DELPHI)\\Imports;$(DELPHI)\\Projects\\Bpl;D:\\DELPHI\\VCL;D:\\DELPHI\\DUnit\\src;c:\\Halcyon6\\Delphi6\nset browsingPath=$(DELPHI)\\source\\vcl;$(DELPHI)\\source\\rtl\\Corba;$(DELPHI)\\source\\rtl\\Corba40;$(DELPHI)\\source\\rtl\\Sys;$(DELPHI)\\source\\rtl\\Win;$(DELPHI)\\source\\rtl\\common;$(DELPHI)\\source\\Internet;$(DELPHI)\\source\\clx\nset delphiCompiler=\"C:\\Program Files (x86)\\Borland\\Delphi6\\Bin\\dcc32.exe\"\n\nset dirAtual=echo cd\ncd  D:\\temp\\EstudoTFS\\DelphiBuildTest\\BuildDelphiTest\\tests\\\n\nrem %delphiCompiler% -H\n%delphiCompiler%  HelloWorldTests.dpr -B\n\necho %dirAtual%\n\necho.\n\necho Nivel de erro  %errorlevel%\n\n",
+			"ABF_IDFONTE",
+			"valormoras",
+			"carteira",
+			"fonte",
+			"stp_DA_ObterDadosCobrancaDebitoAutomaticoItau",
+			"SequencialItauDA",
+			"stp_DA_ObterDadosHeaderCobrancaDebitoAutomaticoItau",
+			"tmp_cobrancas",
+			"stp_DA_GerarDadosCobrancaDebitoAutomaticoItau",
+			"stp_DA_ObterSequencialServicoBancario_ItauDA",
+			"stp_DA_BulkInsertRetornoBaixaItauDA",
+			"#tmpBaixaItauDA",
+			"stp_DA_BulkInsertDetalhesBaixaItauDA",
+			"myButton",
+			"AreEqualIntegers",
+			"AreEqualStrings",
+			"tsp_copy_function_to_new_schema",
+			"tsp_copy_object_to_new_schema",
+			"@object_type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 79.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"routes/index.js"
+			],
+			[
+				"user",
+				"routes/user.js"
+			],
+			[
+				".css",
+				"public/stylesheets/style.css"
+			],
+			[
+				"ind",
+				"views/index.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
